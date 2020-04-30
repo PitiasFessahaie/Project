@@ -26,7 +26,7 @@ public class Emailselect {
 			if (k.contains(".com")) {
 				System.out.println("The correct email is : " + k);
 			} else {
-				System.out.println("This are the fake emails is :" + k);
+				System.out.println("Fake emails are :" + k);
 			}
 		}
 	}
