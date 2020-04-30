@@ -7,7 +7,7 @@ import java.util.List;
 public class Emailselect {
 
 	public static void main(String[] args) {
-		select("the correct email is selmaptsegu@gmail.com others include star@mac jhon@loc ");
+		select("the correct email is lincon23@gmail.com others include star@mac jhon@loc ");
 
 	}
 
